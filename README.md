@@ -17,4 +17,9 @@ steps to use the url_shortener in your windows device are;<b>
 ```
  3) the url will be shortened and can be used on any browser. Note that the python file will close within 15 sec of the url generation.```
  
+ # Codes
+ ```
+ 1)the code is written in working.py file located in web server/venv/
+ ```
+ 
 
