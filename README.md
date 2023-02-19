@@ -1,7 +1,7 @@
 # URL_SHORTENER
 It is an app which can shrink a long url consisting of more than 30 characters. It is inspired by url shortening websites like bitly.. 
 languages used for this is python.
-the working principle is simpe:
+the working principle is simpel:
 1) the url given is shortened to a new url by a function.
 2) this url is sent to a server where it is redirected to the same url which you had entered.
 3) these url are stored in the server file as dictionary which contains the values and keys as the corresponding actual url and the shortened url.
