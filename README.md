@@ -23,5 +23,8 @@ steps to use the url_shortener in your windows device are;<b>
  ```
  1)the code is written in working.py file located in web server/venv/
  ```
+ ```
+ 2)the backend code is in /web browser/venv   as backend.py.
+ ```
  
 
