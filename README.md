@@ -8,7 +8,7 @@ the working principle is simpel:
 4)finally whenever you will enter  the short url in the browser it will send a request to the server to send back its actual url thus the browser redirects you to the actual url.
 # How to use
 steps to use the url_shortener in your windows device are;
-1) ```install the working.exe file in your local device.```
-2) open the file and type the url you want to short.
-3) the url will be shortened and can be used on any browser. Note that the python file will close within 15 sec of the url generation.
-#
+ ```1)install the working.exe file located in /web server/venv/dist in your local device.```
+```2) open the file and type the url you want to short.```
+```3) the url will be shortened and can be used on any browser. Note that the python file will close within 15 sec of the url generation.```
+
